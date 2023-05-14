@@ -1,2 +1,2 @@
-# dynamic_admission_control
+# Dynamic Patient Admission Control
 Unofficial Implementation of "An approximate dynamic programming approach to the admission control of elective patients" using **Octave** and **MATLAB**
